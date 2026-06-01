@@ -30,3 +30,22 @@ This project demonstrates CRUD operations, database integration, and Thymeleaf f
 ## 🗄️ Database Structure
 
 The project uses a MySQL database named:
+
+
+workshop_db
+
+
+### Tables:
+- customer
+- vehicles
+- repairs
+
+(See `/database/schema.sql` for full SQL setup)
+
+---
+
+## 🚀 How to Run the Project
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/your-username/workshop-system.git
